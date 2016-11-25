@@ -5,9 +5,9 @@
 # Site
 title: Hexo
 subtitle:
-description:
-author: John Doe
-language:
+description: Hello,world!I come.
+author: chengshuo
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -71,3 +71,5 @@ deploy:
   type: git
   repo: https://github.com/chengshuo678/chengshuo678.github.io.git
   branch: master
+
+duoshuo_shortname: chengshuo218
